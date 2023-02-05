@@ -1,8 +1,14 @@
 - 👋 Hi, I’m Arsalan Ali
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Advanced Python
-- 💞️ I’m looking to collaborate on ML Projects
+- 👀 Passionate about Python, Data Science and Machine Learning
+- 🌱 Currently learning Advanced Python
+- 💞️ Open to collaborate on ML/DL Projects
 - 📫 Reach me at arslanchaos@gmail.com
+- :computer: **Technical Skills:** Python, SQL, Data Visualization (Matplotlib, Seaborn, Plotly), Machine Learning (Scikit-learn, Tensorflow)
+- :bar_chart: **Data Analysis & Insights:** Conducted comprehensive data analysis to uncover hidden patterns, trends and relationships.
+- :chart_with_upwards_trend: **Predictive Modeling:** Developed predictive models using various Machine Learning algorithms to solve real-world problems.
+- :art: **Data Visualization:** Created compelling data visualizations to communicate insights effectively to stakeholders.
+- :nerd_face: **Continuous Learning:** I am always on the lookout for new and interesting data science problems to solve.
+- :bulb: **Let's Connect:** Let's connect and discuss how I can bring value to your data initiatives.
 
 <!---
 ArslanKAS/ArslanKAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
