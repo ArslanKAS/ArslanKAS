@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Arsalan Ali
-- 👀 Passionate about Python, Data Science and Machine Learning
+![Twitter Header](https://user-images.githubusercontent.com/43797457/218346499-35b86514-06b7-4306-89a9-2a710959dc3f.gif)
+<h1 align="center">Hi 👋, I'm Arsalan Ali</h1>
+<h3 align="center">A Passionate Data Scientist</h3>
+
+- 👀 Love everything related to Python, Data Science and Machine Learning
 - 🌱 Currently learning Advanced Python
 - 💞️ Open to collaborate on ML/DL Projects
 - 📫 Reach me at arslanchaos@gmail.com
