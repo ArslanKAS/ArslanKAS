@@ -1,4 +1,4 @@
-![Twitter Header](https://user-images.githubusercontent.com/43797457/218346499-35b86514-06b7-4306-89a9-2a710959dc3f.gif)
+![Twitter Header (2)](https://user-images.githubusercontent.com/43797457/218624114-94bcdabc-e527-47e5-a5c0-2a0ceba1543c.gif)
 <h1 align="center">Hi 👋, I'm Arsalan Ali</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 
