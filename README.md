@@ -18,6 +18,7 @@ ArslanKAS/ArslanKAS is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ## Social Network
+[![Facebook URL](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kas.kas.54/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arslanchaos)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arslankas/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/arslankas)
