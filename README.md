@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 | CO2 vs GDP Analysis | https://github.com/ArslanKAS/CO2_vs_GDP-Analysis |
 | Oil and Gas Analysis | https://github.com/ArslanKAS/Oil---Gas |
 | Sastaticket Flight Prediction | https://github.com/ArslanKAS/Sastaticket-Flight-Competition |
+| Credit Card Fraud Detection | https://github.com/ArslanKAS/Credit-Card-Fraud-Detection |
 
 ### :speech_balloon: <strong>Natural Language Processing</strong>
 | Project | Link |
