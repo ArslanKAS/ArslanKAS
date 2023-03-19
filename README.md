@@ -51,11 +51,17 @@ You can click the Preview link to take a look at your changes.
 | --- | --- |
 | Sentiment Analysis | https://github.com/ArslanKAS/Sentiment-Analysis |
 | Fake News Detection | https://github.com/ArslanKAS/Fake-News-Detection |
+| GPT-2023 | https://github.com/ArslanKAS/AI_Apps/blob/main/GPT_knowledge_access_2023.ipynb |
 
 ### :eyes: <strong>Computer Vision</strong>
 | Project | Link |
 | --- | --- |
 | Eye Blink Detection | https://github.com/ArslanKAS/Projects/tree/master/Eye%20Blink%20Detection |
+
+### :speaker: <strong>Audio</strong>
+| Project | Link |
+| --- | --- |
+| Voice Cloning | https://github.com/ArslanKAS/AI_Apps/blob/main/Voice_Cloning_Tortoise-tts.ipynb |
 
 ### :video_game: <strong>Games</strong>
 | Project | Link |
