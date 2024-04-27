@@ -1,10 +1,9 @@
 ![Twitter Header (2)](https://user-images.githubusercontent.com/43797457/218624114-94bcdabc-e527-47e5-a5c0-2a0ceba1543c.gif)
 <h1 align="center">Hi 👋, I'm Arsalan Ali</h1>
-<h3 align="center">A Passionate Data Scientist</h3>
+<h3 align="center">Data Scientist | AI Engineer | LLM Engineer </h3>
 
 - 👀 Love everything related to Python, Data Science and Machine Learning
-- 🌱 Currently learning Advanced Python
-- 💞️ Open to collaborate on ML/DL Projects
+- 🌱 Currently learning Advanced LLM Topics
 - 📫 Reach me at arslanchaos@gmail.com
 - :computer: **Technical Skills:** Python, SQL, Data Visualization (Matplotlib, Seaborn, Plotly), Machine Learning (Scikit-learn, Tensorflow)
 - :bar_chart: **Data Analysis & Insights:** Conducted comprehensive data analysis to uncover hidden patterns, trends and relationships.
